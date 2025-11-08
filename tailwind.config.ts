@@ -10,10 +10,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        "primary": "#6a32f7",
+        "primary": "#607AFB",
         "secondary": "#f33c7c",
-        "background-light": "#f8f9fc",
-        "background-dark": "#0d101e",
+        "background-light": "#f5f6f8",
+        "background-dark": "#0f1323",
         "surface-dark": "#161b32",
       },
       fontFamily: {
@@ -22,7 +22,7 @@ const config: Config = {
       borderRadius: {
         "DEFAULT": "0.25rem",
         "lg": "0.5rem",
-        "xl": "1rem",
+        "xl": "0.75rem",
         "full": "9999px"
       },
       boxShadow: {
